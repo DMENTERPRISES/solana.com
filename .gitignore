@@ -1,0 +1,13 @@
+.next/
+.turbo/
+.source/
+node_modules/
+dist/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+i18n.cache
+.vercel
+.claude/
