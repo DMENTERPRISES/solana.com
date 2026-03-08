@@ -1,4 +1,5 @@
 # solana.com Monorepo
+## https://github.com/danishahmed111/solana.com
 
 Repository for [https://solana.com](https://solana.com) - a Turborepo-powered
 monorepo with the main app in `apps/web/`.
@@ -30,7 +31,7 @@ monorepo with the main app in `apps/web/`.
    pnpm dev
    ```
 
-## Maintainers
+### Maintainers
 
 The solana.com website is managed and maintained by the Solana Foundation. Read
 more on [how to contribute](apps/web/CONTRIBUTING.md).
