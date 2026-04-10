@@ -4,6 +4,6 @@ packages:
 
 catalog:
   next: ^16.1.5
-  next-intl: ^3.26.4
+  next-intl: ^4.9.1
   react: ^19.1.2
   react-dom: ^19.1.2
